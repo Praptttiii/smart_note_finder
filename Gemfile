@@ -61,3 +61,10 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "pgvector"
+gem "graphql"
+gem "openai"
+gem 'dotenv-rails'
+gem "graphiql-rails", group: :development
+gem 'pry', '~> 0.10.3'

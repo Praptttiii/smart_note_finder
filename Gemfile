@@ -67,4 +67,4 @@ gem "graphql"
 gem "openai"
 gem 'dotenv-rails'
 gem "graphiql-rails", group: :development
-gem 'pry', '~> 0.10.3'
+gem 'pry', '~> 0.14.2'
